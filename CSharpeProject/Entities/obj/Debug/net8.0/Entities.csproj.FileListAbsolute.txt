@@ -1,0 +1,11 @@
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeSpeedRun\Entities\bin\Debug\net8.0\Entities.deps.json
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeSpeedRun\Entities\bin\Debug\net8.0\Entities.dll
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeSpeedRun\Entities\bin\Debug\net8.0\Entities.pdb
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeSpeedRun\Entities\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeSpeedRun\Entities\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeSpeedRun\Entities\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeSpeedRun\Entities\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeSpeedRun\Entities\obj\Debug\net8.0\Entities.dll
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeSpeedRun\Entities\obj\Debug\net8.0\refint\Entities.dll
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeSpeedRun\Entities\obj\Debug\net8.0\Entities.pdb
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeSpeedRun\Entities\obj\Debug\net8.0\ref\Entities.dll

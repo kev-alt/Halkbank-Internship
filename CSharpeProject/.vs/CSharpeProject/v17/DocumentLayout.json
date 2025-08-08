@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kevse\\Desktop\\Halkbank Internship\\CSharpeSpeedRun\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25937609-CF41-4094-B463-883032BCC730}|WorkAround\\WorkAround.csproj|c:\\users\\kevse\\desktop\\halkbank internship\\csharpespeedrun\\workaround\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25937609-CF41-4094-B463-883032BCC730}|WorkAround\\WorkAround.csproj|solutionrelative:workaround\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EAD71D2-FCFA-40BC-8DBE-ACC07CC212A8}|Business\\Business.csproj|c:\\users\\kevse\\desktop\\halkbank internship\\csharpespeedrun\\business\\abstract\\isupplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EAD71D2-FCFA-40BC-8DBE-ACC07CC212A8}|Business\\Business.csproj|solutionrelative:business\\abstract\\isupplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EAD71D2-FCFA-40BC-8DBE-ACC07CC212A8}|Business\\Business.csproj|c:\\users\\kevse\\desktop\\halkbank internship\\csharpespeedrun\\business\\concrete\\cowmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EAD71D2-FCFA-40BC-8DBE-ACC07CC212A8}|Business\\Business.csproj|solutionrelative:business\\concrete\\cowmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C752B11-7D2A-4754-95DE-16A5A1030DB3}|Entities\\Entities.csproj|c:\\users\\kevse\\desktop\\halkbank internship\\csharpespeedrun\\entities\\concrete\\cow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C752B11-7D2A-4754-95DE-16A5A1030DB3}|Entities\\Entities.csproj|solutionrelative:entities\\concrete\\cow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EAD71D2-FCFA-40BC-8DBE-ACC07CC212A8}|Business\\Business.csproj|c:\\users\\kevse\\desktop\\halkbank internship\\csharpespeedrun\\business\\concrete\\farmer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EAD71D2-FCFA-40BC-8DBE-ACC07CC212A8}|Business\\Business.csproj|solutionrelative:business\\concrete\\farmer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EAD71D2-FCFA-40BC-8DBE-ACC07CC212A8}|Business\\Business.csproj|c:\\users\\kevse\\desktop\\halkbank internship\\csharpespeedrun\\business\\abstract\\iapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EAD71D2-FCFA-40BC-8DBE-ACC07CC212A8}|Business\\Business.csproj|solutionrelative:business\\abstract\\iapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EAD71D2-FCFA-40BC-8DBE-ACC07CC212A8}|Business\\Business.csproj|c:\\users\\kevse\\desktop\\halkbank internship\\csharpespeedrun\\business\\concrete\\foreignermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EAD71D2-FCFA-40BC-8DBE-ACC07CC212A8}|Business\\Business.csproj|solutionrelative:business\\concrete\\foreignermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ForeignerManager.cs",
+              "DocumentMoniker": "C:\\Users\\kevse\\Desktop\\Halkbank Internship\\CSharpeSpeedRun\\Business\\Concrete\\ForeignerManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\ForeignerManager.cs",
+              "ToolTip": "C:\\Users\\kevse\\Desktop\\Halkbank Internship\\CSharpeSpeedRun\\Business\\Concrete\\ForeignerManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\ForeignerManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T14:21:53.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IApplicationService.cs",
+              "DocumentMoniker": "C:\\Users\\kevse\\Desktop\\Halkbank Internship\\CSharpeSpeedRun\\Business\\Abstract\\IApplicationService.cs",
+              "RelativeDocumentMoniker": "Business\\Abstract\\IApplicationService.cs",
+              "ToolTip": "C:\\Users\\kevse\\Desktop\\Halkbank Internship\\CSharpeSpeedRun\\Business\\Abstract\\IApplicationService.cs",
+              "RelativeToolTip": "Business\\Abstract\\IApplicationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T14:15:30.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Farmer.cs",
+              "DocumentMoniker": "C:\\Users\\kevse\\Desktop\\Halkbank Internship\\CSharpeSpeedRun\\Business\\Concrete\\Farmer.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\Farmer.cs",
+              "ToolTip": "C:\\Users\\kevse\\Desktop\\Halkbank Internship\\CSharpeSpeedRun\\Business\\Concrete\\Farmer.cs",
+              "RelativeToolTip": "Business\\Concrete\\Farmer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T14:06:02.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CowManager.cs",
+              "DocumentMoniker": "C:\\Users\\kevse\\Desktop\\Halkbank Internship\\CSharpeSpeedRun\\Business\\Concrete\\CowManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\CowManager.cs",
+              "ToolTip": "C:\\Users\\kevse\\Desktop\\Halkbank Internship\\CSharpeSpeedRun\\Business\\Concrete\\CowManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\CowManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T13:09:57.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cow.cs",
+              "DocumentMoniker": "C:\\Users\\kevse\\Desktop\\Halkbank Internship\\CSharpeSpeedRun\\Entities\\Concrete\\Cow.cs",
+              "RelativeDocumentMoniker": "Entities\\Concrete\\Cow.cs",
+              "ToolTip": "C:\\Users\\kevse\\Desktop\\Halkbank Internship\\CSharpeSpeedRun\\Entities\\Concrete\\Cow.cs",
+              "RelativeToolTip": "Entities\\Concrete\\Cow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T12:55:55.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kevse\\Desktop\\Halkbank Internship\\CSharpeSpeedRun\\WorkAround\\Program.cs",
+              "RelativeDocumentMoniker": "WorkAround\\Program.cs",
+              "ToolTip": "C:\\Users\\kevse\\Desktop\\Halkbank Internship\\CSharpeSpeedRun\\WorkAround\\Program.cs",
+              "RelativeToolTip": "WorkAround\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T12:10:38.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ISupplierService.cs",
+              "DocumentMoniker": "C:\\Users\\kevse\\Desktop\\Halkbank Internship\\CSharpeSpeedRun\\Business\\Abstract\\ISupplierService.cs",
+              "RelativeDocumentMoniker": "Business\\Abstract\\ISupplierService.cs",
+              "ToolTip": "C:\\Users\\kevse\\Desktop\\Halkbank Internship\\CSharpeSpeedRun\\Business\\Abstract\\ISupplierService.cs",
+              "RelativeToolTip": "Business\\Abstract\\ISupplierService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T14:38:52.879Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
