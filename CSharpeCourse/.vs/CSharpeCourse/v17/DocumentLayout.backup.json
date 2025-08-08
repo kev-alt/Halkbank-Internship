@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kevse\\Desktop\\Halkbank Internship\\CSharpeCourse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72CAB480-1BFC-43DD-8D75-57BE29EFAF93}|Inhertitance\\Inhertitance.csproj|c:\\users\\kevse\\desktop\\halkbank internship\\csharpecourse\\inhertitance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72CAB480-1BFC-43DD-8D75-57BE29EFAF93}|Inhertitance\\Inhertitance.csproj|solutionrelative:inhertitance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A3E4EC-F8D8-4546-9F0D-19B012909280}|InterfacesDemo\\InterfacesDemo.csproj|c:\\users\\kevse\\desktop\\halkbank internship\\csharpecourse\\interfacesdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A3E4EC-F8D8-4546-9F0D-19B012909280}|InterfacesDemo\\InterfacesDemo.csproj|solutionrelative:interfacesdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kevse\\Desktop\\Halkbank Internship\\CSharpeCourse\\InterfacesDemo\\Program.cs",
+              "RelativeDocumentMoniker": "InterfacesDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\kevse\\Desktop\\Halkbank Internship\\CSharpeCourse\\InterfacesDemo\\Program.cs",
+              "RelativeToolTip": "InterfacesDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T11:27:59.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kevse\\Desktop\\Halkbank Internship\\CSharpeCourse\\Inhertitance\\Program.cs",
+              "RelativeDocumentMoniker": "Inhertitance\\Program.cs",
+              "ToolTip": "C:\\Users\\kevse\\Desktop\\Halkbank Internship\\CSharpeCourse\\Inhertitance\\Program.cs",
+              "RelativeToolTip": "Inhertitance\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T08:31:50.593Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeCourse\Loops\bin\Debug\net8.0\Loops.exe
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeCourse\Loops\bin\Debug\net8.0\Loops.deps.json
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeCourse\Loops\bin\Debug\net8.0\Loops.runtimeconfig.json
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeCourse\Loops\bin\Debug\net8.0\Loops.dll
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeCourse\Loops\bin\Debug\net8.0\Loops.pdb
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeCourse\Loops\obj\Debug\net8.0\Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeCourse\Loops\obj\Debug\net8.0\Loops.AssemblyInfoInputs.cache
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeCourse\Loops\obj\Debug\net8.0\Loops.AssemblyInfo.cs
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeCourse\Loops\obj\Debug\net8.0\Loops.csproj.CoreCompileInputs.cache
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeCourse\Loops\obj\Debug\net8.0\Loops.dll
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeCourse\Loops\obj\Debug\net8.0\refint\Loops.dll
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeCourse\Loops\obj\Debug\net8.0\Loops.pdb
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeCourse\Loops\obj\Debug\net8.0\Loops.genruntimeconfig.cache
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeCourse\Loops\obj\Debug\net8.0\ref\Loops.dll

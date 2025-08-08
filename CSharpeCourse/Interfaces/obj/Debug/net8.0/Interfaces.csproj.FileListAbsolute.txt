@@ -1,0 +1,14 @@
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeCourse\Interfaces\bin\Debug\net8.0\Interfaces.exe
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeCourse\Interfaces\bin\Debug\net8.0\Interfaces.deps.json
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeCourse\Interfaces\bin\Debug\net8.0\Interfaces.runtimeconfig.json
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeCourse\Interfaces\bin\Debug\net8.0\Interfaces.dll
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeCourse\Interfaces\bin\Debug\net8.0\Interfaces.pdb
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeCourse\Interfaces\obj\Debug\net8.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeCourse\Interfaces\obj\Debug\net8.0\Interfaces.AssemblyInfoInputs.cache
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeCourse\Interfaces\obj\Debug\net8.0\Interfaces.AssemblyInfo.cs
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeCourse\Interfaces\obj\Debug\net8.0\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeCourse\Interfaces\obj\Debug\net8.0\Interfaces.dll
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeCourse\Interfaces\obj\Debug\net8.0\refint\Interfaces.dll
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeCourse\Interfaces\obj\Debug\net8.0\Interfaces.pdb
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeCourse\Interfaces\obj\Debug\net8.0\Interfaces.genruntimeconfig.cache
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeCourse\Interfaces\obj\Debug\net8.0\ref\Interfaces.dll

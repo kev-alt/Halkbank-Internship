@@ -1,0 +1,14 @@
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeCourse\TypeAndValues\bin\Debug\net8.0\TypeAndValues.exe
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeCourse\TypeAndValues\bin\Debug\net8.0\TypeAndValues.deps.json
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeCourse\TypeAndValues\bin\Debug\net8.0\TypeAndValues.runtimeconfig.json
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeCourse\TypeAndValues\bin\Debug\net8.0\TypeAndValues.dll
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeCourse\TypeAndValues\bin\Debug\net8.0\TypeAndValues.pdb
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeCourse\TypeAndValues\obj\Debug\net8.0\TypeAndValues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeCourse\TypeAndValues\obj\Debug\net8.0\TypeAndValues.AssemblyInfoInputs.cache
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeCourse\TypeAndValues\obj\Debug\net8.0\TypeAndValues.AssemblyInfo.cs
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeCourse\TypeAndValues\obj\Debug\net8.0\TypeAndValues.csproj.CoreCompileInputs.cache
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeCourse\TypeAndValues\obj\Debug\net8.0\TypeAndValues.dll
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeCourse\TypeAndValues\obj\Debug\net8.0\refint\TypeAndValues.dll
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeCourse\TypeAndValues\obj\Debug\net8.0\TypeAndValues.pdb
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeCourse\TypeAndValues\obj\Debug\net8.0\TypeAndValues.genruntimeconfig.cache
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeCourse\TypeAndValues\obj\Debug\net8.0\ref\TypeAndValues.dll

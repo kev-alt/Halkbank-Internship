@@ -1,0 +1,14 @@
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeCourse\ConditionalasExamples\bin\Debug\net8.0\ConditionalasExamples.exe
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeCourse\ConditionalasExamples\bin\Debug\net8.0\ConditionalasExamples.deps.json
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeCourse\ConditionalasExamples\bin\Debug\net8.0\ConditionalasExamples.runtimeconfig.json
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeCourse\ConditionalasExamples\bin\Debug\net8.0\ConditionalasExamples.dll
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeCourse\ConditionalasExamples\bin\Debug\net8.0\ConditionalasExamples.pdb
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeCourse\ConditionalasExamples\obj\Debug\net8.0\ConditionalasExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeCourse\ConditionalasExamples\obj\Debug\net8.0\ConditionalasExamples.AssemblyInfoInputs.cache
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeCourse\ConditionalasExamples\obj\Debug\net8.0\ConditionalasExamples.AssemblyInfo.cs
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeCourse\ConditionalasExamples\obj\Debug\net8.0\ConditionalasExamples.csproj.CoreCompileInputs.cache
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeCourse\ConditionalasExamples\obj\Debug\net8.0\ConditionalasExamples.dll
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeCourse\ConditionalasExamples\obj\Debug\net8.0\refint\ConditionalasExamples.dll
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeCourse\ConditionalasExamples\obj\Debug\net8.0\ConditionalasExamples.pdb
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeCourse\ConditionalasExamples\obj\Debug\net8.0\ConditionalasExamples.genruntimeconfig.cache
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeCourse\ConditionalasExamples\obj\Debug\net8.0\ref\ConditionalasExamples.dll

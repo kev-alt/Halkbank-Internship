@@ -1,0 +1,14 @@
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeCourse\Inhertitance\bin\Debug\net8.0\Inhertitance.exe
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeCourse\Inhertitance\bin\Debug\net8.0\Inhertitance.deps.json
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeCourse\Inhertitance\bin\Debug\net8.0\Inhertitance.runtimeconfig.json
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeCourse\Inhertitance\bin\Debug\net8.0\Inhertitance.dll
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeCourse\Inhertitance\bin\Debug\net8.0\Inhertitance.pdb
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeCourse\Inhertitance\obj\Debug\net8.0\Inhertitance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeCourse\Inhertitance\obj\Debug\net8.0\Inhertitance.AssemblyInfoInputs.cache
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeCourse\Inhertitance\obj\Debug\net8.0\Inhertitance.AssemblyInfo.cs
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeCourse\Inhertitance\obj\Debug\net8.0\Inhertitance.csproj.CoreCompileInputs.cache
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeCourse\Inhertitance\obj\Debug\net8.0\Inhertitance.dll
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeCourse\Inhertitance\obj\Debug\net8.0\refint\Inhertitance.dll
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeCourse\Inhertitance\obj\Debug\net8.0\Inhertitance.pdb
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeCourse\Inhertitance\obj\Debug\net8.0\Inhertitance.genruntimeconfig.cache
+C:\Users\kevse\Desktop\Halkbank Internship\CSharpeCourse\Inhertitance\obj\Debug\net8.0\ref\Inhertitance.dll
