@@ -1,0 +1,13 @@
+C:\Users\kevse\Desktop\Halkbank Internship\MVC\EntityFrameworkSamples\EntityFrameworkSamples\bin\Debug\EntityFrameworkSamples.exe.config
+C:\Users\kevse\Desktop\Halkbank Internship\MVC\EntityFrameworkSamples\EntityFrameworkSamples\bin\Debug\EntityFrameworkSamples.exe
+C:\Users\kevse\Desktop\Halkbank Internship\MVC\EntityFrameworkSamples\EntityFrameworkSamples\bin\Debug\EntityFrameworkSamples.pdb
+C:\Users\kevse\Desktop\Halkbank Internship\MVC\EntityFrameworkSamples\EntityFrameworkSamples\bin\Debug\EntityFramework.dll
+C:\Users\kevse\Desktop\Halkbank Internship\MVC\EntityFrameworkSamples\EntityFrameworkSamples\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kevse\Desktop\Halkbank Internship\MVC\EntityFrameworkSamples\EntityFrameworkSamples\bin\Debug\EntityFramework.xml
+C:\Users\kevse\Desktop\Halkbank Internship\MVC\EntityFrameworkSamples\EntityFrameworkSamples\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kevse\Desktop\Halkbank Internship\MVC\EntityFrameworkSamples\EntityFrameworkSamples\obj\Debug\EntityFrameworkSamples.csproj.AssemblyReference.cache
+C:\Users\kevse\Desktop\Halkbank Internship\MVC\EntityFrameworkSamples\EntityFrameworkSamples\obj\Debug\EntityFrameworkSamples.csproj.CoreCompileInputs.cache
+C:\Users\kevse\Desktop\Halkbank Internship\MVC\EntityFrameworkSamples\EntityFrameworkSamples\obj\Debug\EntityFr.072EDE06.Up2Date
+C:\Users\kevse\Desktop\Halkbank Internship\MVC\EntityFrameworkSamples\EntityFrameworkSamples\obj\Debug\EntityFrameworkSamples.exe
+C:\Users\kevse\Desktop\Halkbank Internship\MVC\EntityFrameworkSamples\EntityFrameworkSamples\obj\Debug\EntityFrameworkSamples.pdb
+C:\Users\kevse\Desktop\Halkbank Internship\MVC\EntityFrameworkSamples\EntityFrameworkSamples\obj\Debug\EntityFrameworkSamples.exe.config

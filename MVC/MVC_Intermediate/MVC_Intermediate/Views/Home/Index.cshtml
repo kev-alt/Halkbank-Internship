@@ -1,0 +1,78 @@
+﻿@using MVC_Intermediate.Models
+@model ProductCategoryModel
+
+@{
+    ViewBag.Title = "Products";
+}
+
+<div class="d-flex justify-content-between align-items-center mb-4">
+    <h2>Products</h2>
+    <div class="d-lg-none">
+        <button class="btn btn-primary" type="button" data-bs-toggle="offcanvas" data-bs-target="#mobileCategories">
+            <i class="bi bi-list"></i> Categories
+        </button>
+    </div>
+</div>
+
+<div class="col-md-12">
+    <div class="alert alert-success" role="alert">
+        <strong>@Model.ProductCount</strong> products listed.
+    </div>
+</div>
+
+<div class="offcanvas offcanvas-start d-lg-none" tabindex="-1" id="mobileCategories">
+    <div class="offcanvas-header bg-primary text-white">
+        <h5 class="offcanvas-title">Categories</h5>
+        <button type="button" class="btn-close btn-close-white" data-bs-dismiss="offcanvas"></button>
+    </div>
+    <div class="offcanvas-body">
+        @Html.Action("CategoryMenu", "Category")
+    </div>
+</div>
+
+<div class="container px-0">
+    <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+        @foreach (var product in Model.Products)
+        {
+            <div class="col">
+                <div class="card h-100 shadow-sm">
+                    <div class="position-relative">
+                        <img src="https://placehold.co/600x400" class="card-img-top p-3" alt="@product.ProductName">
+                        <span class="position-absolute top-0 end-0 mt-2 me-2 badge bg-success">In Stock</span>
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title">@product.ProductName</h5>
+                        <p class="card-text text-muted">
+                            @if (product.ProductDescription.Length > 50)
+                            {
+                                @(product.ProductDescription.Substring(0, 47) + "...")
+                            }
+                            else
+                            {
+                                @product.ProductDescription
+                            }
+                        </p>
+                    </div>
+                    <div class="card-footer bg-transparent">
+                        @*<div class="d-grid gap-2 d-md-flex">
+                            <a href="/Home/Details/?id=@product.ProductId" class="btn btn-outline-primary flex-grow-1">
+                                <i class="bi bi-info-circle"></i> Examine the product!
+                            </a>
+                        </div>*@
+                        
+                        @Html.ActionLink("Examine the product!", "Details", new { id = @product.ProductId}, new { @class="btn btn-primary"})
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
+
+@if (!Model.Products.Any())
+{
+    <div class="alert alert-warning text-center py-5">
+        <h4 class="mb-3">No products found</h4>
+        <p>Try selecting different categories or filters</p>
+        <a href="#" class="btn btn-primary mt-2">Browse All Products</a>
+    </div>
+}

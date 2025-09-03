@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kevse\\Desktop\\Halkbank Internship\\MVC\\MVC_Intermediate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BAC6269-DE1E-4542-8131-EFDA9F5AC08A}|MVC_Intermediate\\MVC_Intermediate.csproj|c:\\users\\kevse\\desktop\\halkbank internship\\mvc\\mvc_intermediate\\mvc_intermediate\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BAC6269-DE1E-4542-8131-EFDA9F5AC08A}|MVC_Intermediate\\MVC_Intermediate.csproj|solutionrelative:mvc_intermediate\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BAC6269-DE1E-4542-8131-EFDA9F5AC08A}|MVC_Intermediate\\MVC_Intermediate.csproj|c:\\users\\kevse\\desktop\\halkbank internship\\mvc\\mvc_intermediate\\mvc_intermediate\\views\\home\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BAC6269-DE1E-4542-8131-EFDA9F5AC08A}|MVC_Intermediate\\MVC_Intermediate.csproj|solutionrelative:mvc_intermediate\\views\\home\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BAC6269-DE1E-4542-8131-EFDA9F5AC08A}|MVC_Intermediate\\MVC_Intermediate.csproj|C:\\Users\\kevse\\Desktop\\Halkbank Internship\\MVC\\MVC_Intermediate\\mvc_intermediate\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BAC6269-DE1E-4542-8131-EFDA9F5AC08A}|MVC_Intermediate\\MVC_Intermediate.csproj|solutionrelative:mvc_intermediate\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BAC6269-DE1E-4542-8131-EFDA9F5AC08A}|MVC_Intermediate\\MVC_Intermediate.csproj|C:\\Users\\kevse\\Desktop\\Halkbank Internship\\MVC\\MVC_Intermediate\\mvc_intermediate\\models\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BAC6269-DE1E-4542-8131-EFDA9F5AC08A}|MVC_Intermediate\\MVC_Intermediate.csproj|solutionrelative:mvc_intermediate\\models\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BAC6269-DE1E-4542-8131-EFDA9F5AC08A}|MVC_Intermediate\\MVC_Intermediate.csproj|C:\\Users\\kevse\\Desktop\\Halkbank Internship\\MVC\\MVC_Intermediate\\mvc_intermediate\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BAC6269-DE1E-4542-8131-EFDA9F5AC08A}|MVC_Intermediate\\MVC_Intermediate.csproj|solutionrelative:mvc_intermediate\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BAC6269-DE1E-4542-8131-EFDA9F5AC08A}|MVC_Intermediate\\MVC_Intermediate.csproj|C:\\Users\\kevse\\Desktop\\Halkbank Internship\\MVC\\MVC_Intermediate\\mvc_intermediate\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BAC6269-DE1E-4542-8131-EFDA9F5AC08A}|MVC_Intermediate\\MVC_Intermediate.csproj|solutionrelative:mvc_intermediate\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BAC6269-DE1E-4542-8131-EFDA9F5AC08A}|MVC_Intermediate\\MVC_Intermediate.csproj|C:\\Users\\kevse\\Desktop\\Halkbank Internship\\MVC\\MVC_Intermediate\\mvc_intermediate\\views\\home\\productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BAC6269-DE1E-4542-8131-EFDA9F5AC08A}|MVC_Intermediate\\MVC_Intermediate.csproj|solutionrelative:mvc_intermediate\\views\\home\\productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BAC6269-DE1E-4542-8131-EFDA9F5AC08A}|MVC_Intermediate\\MVC_Intermediate.csproj|C:\\Users\\kevse\\Desktop\\Halkbank Internship\\MVC\\MVC_Intermediate\\mvc_intermediate\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8BAC6269-DE1E-4542-8131-EFDA9F5AC08A}|MVC_Intermediate\\MVC_Intermediate.csproj|solutionrelative:mvc_intermediate\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BAC6269-DE1E-4542-8131-EFDA9F5AC08A}|MVC_Intermediate\\MVC_Intermediate.csproj|C:\\Users\\kevse\\Desktop\\Halkbank Internship\\MVC\\MVC_Intermediate\\mvc_intermediate\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BAC6269-DE1E-4542-8131-EFDA9F5AC08A}|MVC_Intermediate\\MVC_Intermediate.csproj|solutionrelative:mvc_intermediate\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kevse\\Desktop\\Halkbank Internship\\MVC\\MVC_Intermediate\\MVC_Intermediate\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC_Intermediate\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kevse\\Desktop\\Halkbank Internship\\MVC\\MVC_Intermediate\\MVC_Intermediate\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVC_Intermediate\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-13T06:25:59.265Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\kevse\\Desktop\\Halkbank Internship\\MVC\\MVC_Intermediate\\MVC_Intermediate\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVC_Intermediate\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\kevse\\Desktop\\Halkbank Internship\\MVC\\MVC_Intermediate\\MVC_Intermediate\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVC_Intermediate\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-15T06:47:27.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductList.cshtml",
+              "DocumentMoniker": "C:\\Users\\kevse\\Desktop\\Halkbank Internship\\MVC\\MVC_Intermediate\\MVC_Intermediate\\Views\\Home\\ProductList.cshtml",
+              "RelativeDocumentMoniker": "MVC_Intermediate\\Views\\Home\\ProductList.cshtml",
+              "ToolTip": "C:\\Users\\kevse\\Desktop\\Halkbank Internship\\MVC\\MVC_Intermediate\\MVC_Intermediate\\Views\\Home\\ProductList.cshtml",
+              "RelativeToolTip": "MVC_Intermediate\\Views\\Home\\ProductList.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-13T14:06:50.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Site.css",
+              "DocumentMoniker": "C:\\Users\\kevse\\Desktop\\Halkbank Internship\\MVC\\MVC_Intermediate\\MVC_Intermediate\\Content\\Site.css",
+              "RelativeDocumentMoniker": "MVC_Intermediate\\Content\\Site.css",
+              "ToolTip": "C:\\Users\\kevse\\Desktop\\Halkbank Internship\\MVC\\MVC_Intermediate\\MVC_Intermediate\\Content\\Site.css",
+              "RelativeToolTip": "MVC_Intermediate\\Content\\Site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-13T13:47:08.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\kevse\\Desktop\\Halkbank Internship\\MVC\\MVC_Intermediate\\MVC_Intermediate\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "MVC_Intermediate\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\kevse\\Desktop\\Halkbank Internship\\MVC\\MVC_Intermediate\\MVC_Intermediate\\Models\\Product.cs",
+              "RelativeToolTip": "MVC_Intermediate\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T13:14:43.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\kevse\\Desktop\\Halkbank Internship\\MVC\\MVC_Intermediate\\MVC_Intermediate\\Views\\Home\\AddProduct.cshtml",
+              "RelativeDocumentMoniker": "MVC_Intermediate\\Views\\Home\\AddProduct.cshtml",
+              "ToolTip": "C:\\Users\\kevse\\Desktop\\Halkbank Internship\\MVC\\MVC_Intermediate\\MVC_Intermediate\\Views\\Home\\AddProduct.cshtml",
+              "RelativeToolTip": "MVC_Intermediate\\Views\\Home\\AddProduct.cshtml",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAADkAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-13T13:07:01.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\kevse\\Desktop\\Halkbank Internship\\MVC\\MVC_Intermediate\\MVC_Intermediate\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "MVC_Intermediate\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\kevse\\Desktop\\Halkbank Internship\\MVC\\MVC_Intermediate\\MVC_Intermediate\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "MVC_Intermediate\\Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-13T12:25:59.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\kevse\\Desktop\\Halkbank Internship\\MVC\\MVC_Intermediate\\MVC_Intermediate\\Models\\Database.cs",
+              "RelativeDocumentMoniker": "MVC_Intermediate\\Models\\Database.cs",
+              "ToolTip": "C:\\Users\\kevse\\Desktop\\Halkbank Internship\\MVC\\MVC_Intermediate\\MVC_Intermediate\\Models\\Database.cs",
+              "RelativeToolTip": "MVC_Intermediate\\Models\\Database.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T12:08:15.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\kevse\\Desktop\\Halkbank Internship\\MVC\\MVC_Intermediate\\MVC_Intermediate\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVC_Intermediate\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\kevse\\Desktop\\Halkbank Internship\\MVC\\MVC_Intermediate\\MVC_Intermediate\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVC_Intermediate\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAcwDMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T12:07:27.04Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

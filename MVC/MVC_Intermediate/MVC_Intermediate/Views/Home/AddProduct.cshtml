@@ -1,0 +1,79 @@
+﻿@{
+    ViewBag.Title = "AddProduct";
+}
+
+<h2 class="mb-4">Add Product</h2>
+<hr />
+
+@using (Html.BeginForm("AddProduct", "Home", FormMethod.Post))
+{
+    <div class="container mt-3">
+        <div class="row justify-content-center">
+            <div class="col-md-8">
+                <div class="card shadow-sm p-4">
+                    <div class="row mb-3 align-items-center">
+                        <div class="col-md-4">
+                            <label class="form-label fw-bold">Product Name</label>
+                        </div>
+                        <div class="col-md-8">
+                            @Html.TextBox("ProductName", null, new { @class = "form-control", placeholder = "Enter product name" })
+                        </div>
+                    </div>
+
+                    <div class="row mb-3 align-items-center">
+                        <div class="col-md-4">
+                            <label class="form-label fw-bold">Product Description</label>
+                        </div>
+                        <div class="col-md-8">
+                            @Html.TextArea("ProductDescription", null, new { @class = "form-control", placeholder = "Enter product description", rows = 3 })
+                        </div>
+                    </div>
+
+                    <div class="row mb-3 align-items-center">
+                        <div class="col-md-4">
+                            <label class="form-label fw-bold">Product Price</label>
+                        </div>
+                        <div class="col-md-8">
+                            @Html.TextBox("ProductPrice", null, new { @class = "form-control", placeholder = "Enter price" })
+                        </div>
+                    </div>
+
+                    <div class="row mb-3 align-items-center">
+                        <div class="col-md-4">
+                            <label class="form-label fw-bold">Product Image</label>
+                        </div>
+                        <div class="col-md-8">
+                            @Html.TextBox("ProductImage", null, new { @class = "form-control", placeholder = "Image file name (e.g., 1.jpg)" })
+                        </div>
+                    </div>
+
+                    <div class="row mb-3 align-items-center">
+                        <div class="col-md-4">
+                            <label class="form-label fw-bold">Is the product for sale?</label>
+                        </div>
+                        <div class="col-md-8">
+                            <div class="d-flex gap-4">
+                                <div class="form-check">
+                                    @Html.RadioButton("ProductIsAvaible", true, false, new { @class = "form-check-input", id = "availableYes" })
+                                    <label class="form-check-label" for="availableYes">Yes</label>
+                                </div>
+                                <div class="form-check">
+                                    @Html.RadioButton("ProductIsAvaible", false, false, new { @class = "form-check-input", id = "availableNo" })
+                                    <label class="form-check-label" for="availableNo">No</label>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="row mb-3 align-items-center">
+                        <div class="col-md-4">
+                        </div>
+                        <div class="col-md-1">
+                            <button type="submit" class="btn btn-primary px-4">Save</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+}
